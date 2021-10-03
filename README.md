@@ -7,6 +7,4 @@
 | (_| | |  __/ |  \ V / (_| | | | | (_) | (_) | | | |
  \__,_|_|\___|_|   \_/ \__,_|_| |_|\___/ \___/|_| |_|
 
-working_on = "https://l.alefvanoon.xyz, torland, VPNland"
-age = 19
 ```
